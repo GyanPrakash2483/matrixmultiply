@@ -98,7 +98,7 @@ int main()
     }
 
 
-    printf("Product of both arrays is: \n");
+    printf("Product of both matrices is: \n");
     //print mproduct
     for(int i = 0; i < a; i++) {
         printf("|");
