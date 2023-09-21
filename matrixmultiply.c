@@ -18,7 +18,7 @@ int main()
     scanf("%d", &d);
 
     if(b != c) {
-        printf("Cannot multiply a matrix of six %d x %d with %d x %d\n", a, b, c, d);
+        printf("Cannot multiply a matrix of size %d x %d with %d x %d\n", a, b, c, d);
         exit(1);
     }
 
